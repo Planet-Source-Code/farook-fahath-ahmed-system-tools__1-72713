@@ -1,0 +1,198 @@
+ÿ­1.	Accessibility Controls
+access.cpl
+2.	Add Hardware Wizard
+hdwwiz.cpl
+3.	Add/Remove Programs
+appwiz.cpl
+4.	Administrative Tools
+control.exe admintools
+5.	Automatic Updates
+wuaucpl.cpl
+6.	Bluetooth Transfer Wizard
+fsquirt
+7.	Calculator
+calc
+8.	Certificate Manager
+certmgr.msc
+9.	Character Map
+charmap
+10.	Check Disk Utility
+chkdsk
+11.	Clipboard Viewer
+clipbrd
+12.	Command Prompt
+cmd
+13.	Component Services
+dcomcnfg
+14.	Computer Management
+compmgmt.msc
+15.	Date and Time Properties
+timedate.cpl
+16.	DDE Shares
+ddeshare
+17.	Device Manager
+devmgmt.msc
+18.	Direct X Control Panel (if installed)*
+directx.cpl
+19.	Direct X Troubleshooter
+dxdiag
+20.	Disk Cleanup Utility
+cleanmgr
+21.	Disk Defragment
+dfrg.msc
+22.	Disk Management
+diskmgmt.msc
+23.	Disk Partition Manager
+diskpart
+24.	Display Properties
+control.exe desktop
+25.	Display Properties
+desk.cpl
+26.	Display Properties (w/Appearance Tab Preselected)
+control.exe color
+27.	Dr. Watson System Troubleshooting Utility
+drwtsn32
+28.	Driver Verifier Utility
+verifier
+29.	Event Viewer
+eventvwr.msc
+30.	File Signature Verification Tool
+sigverif
+31.	Findfast
+findfast.cpl
+32.	Folders Properties
+control.exe folders
+33.	Fonts
+control.exe fonts
+34.	Fonts Folder
+fonts
+35.	Free Cell Card Game
+freecell
+36.	Game Controllers
+joy.cpl
+37.	Group Policy Editor (XP Prof)
+gpedit.msc
+38.	Hearts Card Game
+mshearts
+39.	Iexpress Wizard
+iexpress
+40.	Indexing Service
+ciadv.msc
+41.	Internet Properties
+inetcpl.cpl
+42.	Java Control Panel (if installed)
+jpicpl32.cpl
+43.	Java Control Panel (if installed)
+javaws
+44.	Keyboard Properties
+control.exe keyboard
+45.	Local Security Settings
+secpol.msc
+46.	Local Users and Groups
+lusrmgr.msc
+47.	Logs You Out Of Windows
+logoff
+48.	Windows Chat
+winchat
+49.	Minesweeper Game
+winmine
+50.	Mouse Properties
+control.exe mouse
+51.	Mouse Properties
+main.cpl
+52.	Network Connections
+control.exe netconnections
+53.	Network Connections
+ncpa.cpl
+54.	Network Setup Wizard
+netsetup.cpl
+55.	Nview Desktop Manager (if installed)
+nvtuicpl.cpl
+56.	Object Packager
+packager
+57.	ODBC Data Source Administrator
+odbccp32.cpl
+58.	On Screen Keyboard
+osk
+59.	Opens AC3 Filter (if installed)
+ac3filter.cpl
+60.	Password Properties
+password.cpl
+61.	Performance Monitor
+perfmon.msc
+62.	Performance Monitor
+perfmon
+63.	Phone and Modem Options
+telephon.cpl
+64.	Power Configuration
+powercfg.cpl
+65.	Printers and Faxes
+control.exe printers
+66.	Printers Folder
+printers
+67.	Private Character Editor
+eudcedit
+68.	Quicktime (If Installed)
+QuickTime.cpl
+69.	Regional Settings
+intl.cpl
+70.	Registry Editor
+regedit
+71.	Registry Editor
+regedit32
+72.	Removable Storage
+ntmsmgr.msc
+73.	Removable Storage Operator Requests
+ntmsoprq.msc
+74.	Resultant Set of Policy
+rsop.msc
+75.	Resultant Set of Policy (XP Prof)
+rsop.msc
+76.	Scanners and Cameras
+sticpl.cpl
+77.	Scheduled Tasks
+control.exe schedtasks
+78.	Security Center
+wscui.cpl
+79.	Services
+services.msc
+80.	Shared Folders
+fsmgmt.msc
+81.	Shuts Down Windows
+shutdown
+82.	Sounds and Audio
+mmsys.cpl
+83.	Spider Solitare Card Game
+spider
+84.	SQL Client Configuration
+cliconfg
+85.	System Configuration Editor
+sysedit
+86.	System Configuration Utility
+msconfig
+87.	System File Checker Utility
+sfc
+88.	System Properties
+sysdm.cpl
+89.	Task Manager
+taskmgr
+90.	Telnet Client
+telnet
+91.	User Account Management
+nusrmgr.cpl
+92.	Utility Manager
+utilman
+93.	Windows Firewall
+firewall.cpl
+94.	Windows Magnifier
+magnify
+95.	Windows Management Infrastructure
+wmimgmt.msc
+96.	Windows System Security Tool
+syskey
+97.	Windows Update Launches
+wupdmgr
+98.	Windows XP Tour Wizard
+tourstart
+99.	Wordpad
+write
